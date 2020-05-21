@@ -21,7 +21,7 @@ body
 	top:0;
 	position: sticky;
 	background: #131921;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	border-bottom: 3px solid #131921;
 	z-index:2;
 }
@@ -221,3 +221,41 @@ body
 		display: block;
 	}
 }
+
+
+
+
+/*   nav-sprite  */
+
+.nav-sprite
+{
+	margin: 0;
+	padding: 0;
+	background-color: #232f3e;
+	height:39px;
+	padding-top: 1px;
+	position: relative;
+	
+}
+
+
+
+.fa-map-marker
+{
+	float: left;
+	color: #fff;
+	padding-right:  5px;
+	padding-left:   20px;
+	padding-top: 3px;
+	
+}
+
+.delivery
+{
+	color: #fff;
+	font-size: 12px;
+}
+
+
+
+
