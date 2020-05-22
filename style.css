@@ -106,6 +106,10 @@ body
 		height:118px;
 		border-bottom: o;
 	}
+	.keto-logo
+	{
+		min-width: 300px;
+	}
 
 	.search-box {
 		width: 100%;
